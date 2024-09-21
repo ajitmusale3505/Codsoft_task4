@@ -1,1 +1,3 @@
 # Codsoft_task4
+
+"A classic rock-paper-scissors game implemented in Python using the Tinker GUI framework. This project offers a fun and interactive experience while demonstrating fundamental programming concepts. Key features include player vs. computer gameplay, random computer choices, score tracking, and a visually appealing interface. By leveraging Python's Tkinter library and the Tinker framework, I gained practical experience in GUI development, event handling, and control flow. This project showcases my skills in Python programming, GUI development, and creating engaging user experiences."
